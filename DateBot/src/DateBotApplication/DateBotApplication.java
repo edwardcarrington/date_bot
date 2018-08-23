@@ -1,4 +1,5 @@
 package DateBotApplication;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -26,7 +27,7 @@ public class DateBotApplication {
 		// Added space
 		System.out.println(" ");
 
-		System.out.println("Simple as that! Now let's get started...");
+		System.out.println("Simple as that! Now... let's get started!");
 
 		// Added space
 		System.out.println(" ");
